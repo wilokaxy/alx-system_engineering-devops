@@ -1,2 +1,2 @@
 #!/bin/bash
-id = $(whomai)
+current_user = printf('hello'+ $(whomai))
