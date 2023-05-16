@@ -1,2 +1,2 @@
-#!/bin/bash
-current_user = printf('hello'+ $(whomai))
+#!/bin/bash 
+echo "hello $(whoami)"
