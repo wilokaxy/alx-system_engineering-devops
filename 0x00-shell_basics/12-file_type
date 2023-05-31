@@ -1,2 +1,2 @@
 #!/bin/bash
-for /tmp/iamfile\
+file /tmp/iamfile\
